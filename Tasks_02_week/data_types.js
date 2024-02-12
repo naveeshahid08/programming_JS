@@ -1,0 +1,10 @@
+let age = 28;
+let name = "Naveed Shahid";
+let isStudent = true;
+let hobbies = ["reading", "working", "watching", "walking"];
+let info = { school: "ICT", name: "Business College Helsinki" };
+console.log(typeof age);
+console.log(typeof name);
+console.log(typeof isStudent);
+console.log(typeof hobbies);
+console.log(typeof info);
